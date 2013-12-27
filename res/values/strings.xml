@@ -16,6 +16,23 @@
     <item>Magenta</item>
     <item>Red</item>
     <item>Yellow</item>
+    <item>White</item>
 	</string-array>
+	
+    <string-array name="speed_array">
+    <item>Piece of Cake</item>
+    <item>Let\'s Rock</item>
+    <item>Come Get Some</item>
+    <item>Damn I\'m Good</item>
+    <item>Superhuman</item>
+    </string-array>
+    
+    <string-array name="lives_array">
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    </string-array>
 
 </resources>
